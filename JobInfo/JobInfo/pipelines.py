@@ -20,7 +20,10 @@ class JobinfoPipeline(object):
     t.create_table(tableInfo["table"])
 
     def open_spider(self, spider):
-        self.file = os.path.join(os.path.expanduser("~"), "Downloads", "{}.xlsx".format(self.tableInfo["table"]))
+        pathFolder = os.path.join(os.path.expanduser("~"), "Downloads/招聘信息")
+        if not os.path.isdir(pathFolder):
+            os.makedirs(pathFolder)
+        self.file = os.path.join(pathFolder, "{}({}).xlsx".format(self.tableInfo["table"], self.tableInfo["city_name"]))
 
     def close_spider(self, spider):
         self.pd = pandas.DataFrame(self.data_list)

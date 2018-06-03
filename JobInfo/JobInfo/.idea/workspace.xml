@@ -17,15 +17,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="20" />
+            <state relative-caret-position="600">
+              <caret line="51" column="9" lean-forward="false" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
               <folding>
                 <element signature="e#125#140#0" expanded="true" />
-                <element signature="e#275#352#0" expanded="false" />
-                <element signature="e#378#708#0" expanded="false" />
+                <element signature="e#272#349#0" expanded="false" />
+                <element signature="e#375#705#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -46,8 +46,8 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="750">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="e#194#207#0" expanded="true" />
               </folding>
@@ -97,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -158,9 +158,9 @@
         <option value="$PROJECT_DIR$/spiders/Job.py" />
         <option value="$PROJECT_DIR$/databases/mysqlDB.py" />
         <option value="$PROJECT_DIR$/config/config.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/pipelines.py" />
         <option value="$PROJECT_DIR$/config/config.json" />
+        <option value="$PROJECT_DIR$/pipelines.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -171,8 +171,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="371" />
-    <option name="y" value="217" />
+    <option name="x" value="285" />
+    <option name="y" value="73" />
     <option name="width" value="1527" />
     <option name="height" value="1107" />
   </component>
@@ -358,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="371" y="217" width="1527" height="1107" extended-state="0" />
+    <frame x="285" y="73" width="1527" height="1107" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -547,16 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="104" column="18" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="18" />
-          <folding>
-            <element signature="e#1361#3780#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/path.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -567,22 +557,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        <state relative-caret-position="750">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="e#194#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="20" />
-          <folding>
-            <element signature="e#125#140#0" expanded="true" />
-            <element signature="e#275#352#0" expanded="false" />
-            <element signature="e#378#708#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -598,6 +576,28 @@
             <element signature="n#!!block;n#work year#0;n#!!block;n#url insert info#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#salary#0;n#!!block;n#url insert info#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#date#0;n#!!block;n#url insert info#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="104" column="18" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="18" />
+          <folding>
+            <element signature="e#1361#3780#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="51" column="9" lean-forward="false" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="e#125#140#0" expanded="true" />
+            <element signature="e#272#349#0" expanded="false" />
+            <element signature="e#375#705#0" expanded="false" />
           </folding>
         </state>
       </provider>
