@@ -55,6 +55,7 @@ class MySQL_Connector():
                                '`companyInfo` text(0) DEFAULT NULL,' \
                                '`positionUrl` text(0) DEFAULT NULL,' \
                                '`companyUrl` text(0) DEFAULT NULL,' \
+                               '`insertTime` text(0) DEFAULT NULL,' \
                                'PRIMARY KEY (`id`))ENGINE=MyISAM DEFAULT CHARSET=utf8' % NewTable
             try:
                 cursor.execute(sql_create_table)
@@ -83,7 +84,7 @@ class MySQL_Connector():
             except mysql.connector.DataError as e:
                 print('query error!{}'.format(e))
             finally:
-                #cursor.close()
+                # cursor.close()
                 self.cnn.close()
         else:
             print("Connect Fail.")
@@ -100,23 +101,24 @@ class MySQL_Connector():
             except mysql.connector.DataError as e:
                 print('insert data error!{}'.format(e))
             finally:
-                #cursor.close()
+                # cursor.close()
                 self.cnn.close()
         else:
             print("Connect Fail.")
 
-    def update(self, tableName, id, updateTime):
+    def update(self, tableName, id, updateTime, insertTime):
         status = self.connect()
         if status is True:
             cursor = self.cnn.cursor()
             try:
-                sql_insert = "UPDATE {} SET updateTime = \"{}\" where id = \"{}\"".format(tableName, updateTime, id)
+                sql_insert = "UPDATE {} SET updateTime = \"{}\" and insertTime = \"{}\" where id = \"{}\"".format(
+                    tableName, updateTime, insertTime, id)
                 cursor.execute(sql_insert, ())
                 self.cnn.commit()
             except mysql.connector.DataError as e:
                 print('update data error!{}'.format(e))
             finally:
-                #cursor.close()
+                # cursor.close()
                 self.cnn.close()
         else:
             print("Connect Fail.")
@@ -128,4 +130,4 @@ if __name__ == "__main__":
     a = t.search_table({"position": "python"}, "python")
     for i in a:
         print(i)
-    #b = t.update("PyQt",2,"djsalj")
+    # b = t.update("PyQt",2,"djsalj")
