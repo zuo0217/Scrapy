@@ -36,7 +36,9 @@ class JobinfoPipeline(object):
         self.data_list.append(item)
         try:
             info = self.t.search_table(tmpDict, self.tableInfo["table"])
-            info.__next__()
+            getInfo = info.__next__()
+            if getInfo[1] != item["updateTime"]:
+                self.t.update(self.tableInfo["table"], getInfo[0], item["updateTime"])
         except:
             self.t.insert(self.tableInfo["table"], item)
             return item
