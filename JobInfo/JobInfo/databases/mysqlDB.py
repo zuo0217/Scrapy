@@ -72,6 +72,8 @@ class MySQL_Connector():
             tmp.append("{} = \"{}\"".format(i, dictInfo[i]))
             sql_search = base.format(tableName, " and ".join(tmp))
 
+        print(sql_search)
+
         if status is True and sql_search:
             cursor = self.cnn.cursor()
             try:
@@ -81,7 +83,7 @@ class MySQL_Connector():
             except mysql.connector.DataError as e:
                 print('query error!{}'.format(e))
             finally:
-                cursor.close()
+                #cursor.close()
                 self.cnn.close()
         else:
             print("Connect Fail.")
@@ -98,7 +100,7 @@ class MySQL_Connector():
             except mysql.connector.DataError as e:
                 print('insert data error!{}'.format(e))
             finally:
-                cursor.close()
+                #cursor.close()
                 self.cnn.close()
         else:
             print("Connect Fail.")
@@ -114,7 +116,7 @@ class MySQL_Connector():
             except mysql.connector.DataError as e:
                 print('update data error!{}'.format(e))
             finally:
-                cursor.close()
+                #cursor.close()
                 self.cnn.close()
         else:
             print("Connect Fail.")
