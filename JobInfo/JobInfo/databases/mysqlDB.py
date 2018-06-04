@@ -72,8 +72,6 @@ class MySQL_Connector():
             tmp.append("{} = \"{}\"".format(i, dictInfo[i]))
             sql_search = base.format(tableName, " and ".join(tmp))
 
-        print(sql_search)
-
         if status is True and sql_search:
             cursor = self.cnn.cursor()
             try:
@@ -105,17 +103,16 @@ class MySQL_Connector():
         else:
             print("Connect Fail.")
 
-    def insert_date(self, Table, dictInfo):
+    def update(self, tableName, id, updateTime):
         status = self.connect()
         if status is True:
             cursor = self.cnn.cursor()
             try:
-                sql_insert = "insert into {} ({}) values{}".format(
-                    Table, ",".join(dictInfo.keys()), tuple(dictInfo.values()))
+                sql_insert = "UPDATE {} SET updateTime = \"{}\" where id = \"{}\"".format(tableName, updateTime, id)
                 cursor.execute(sql_insert, ())
                 self.cnn.commit()
-            except mysql.connector.Error as e:
-                print('insert data error!{}'.format(e))
+            except mysql.connector.DataError as e:
+                print('update data error!{}'.format(e))
             finally:
                 cursor.close()
                 self.cnn.close()
@@ -126,6 +123,7 @@ class MySQL_Connector():
 if __name__ == "__main__":
     t = MySQL_Connector(address="127.0.0.1", user="root", database="Position", password="88670211")
     print(t.connect())
-    a = t.search_table({"position": "AI工程师"}, "python")
+    a = t.search_table({"position": "python"}, "python")
     for i in a:
         print(i)
+    #b = t.update("PyQt",2,"djsalj")
