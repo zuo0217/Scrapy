@@ -111,7 +111,7 @@ class MySQL_Connector():
         if status is True:
             cursor = self.cnn.cursor()
             try:
-                sql_insert = "UPDATE {} SET updateTime = \"{}\" and insertTime = \"{}\" where id = \"{}\"".format(
+                sql_insert = "UPDATE {} SET updateTime = \"{}\", insertTime = \"{}\" where id = \"{}\"".format(
                     tableName, updateTime, insertTime, id)
                 cursor.execute(sql_insert, ())
                 self.cnn.commit()
