@@ -9,6 +9,7 @@ import pandas
 import os
 from databases.mysqlDB import *
 from page_read.json_read import *
+import time
 
 
 class JobinfoPipeline(object):
@@ -31,6 +32,7 @@ class JobinfoPipeline(object):
 
     def process_item(self, item, spider):
         tmpDict = {}
+        item["insertTime"] = time.strftime("%Y-%m-%d %H:%M:%S")
         for i in self.getKeys():
             tmpDict[i] = item[i]
         self.data_list.append(item)
@@ -38,7 +40,7 @@ class JobinfoPipeline(object):
             info = self.t.search_table(tmpDict, self.tableInfo["table"])
             getInfo = info.__next__()
             if getInfo[1] != item["updateTime"]:
-                self.t.update(self.tableInfo["table"], getInfo[0], item["updateTime"])
+                self.t.update(self.tableInfo["table"], getInfo[0], item["updateTime"], item["insertTime"])
         except:
             self.t.insert(self.tableInfo["table"], item)
             return item
