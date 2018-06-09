@@ -108,6 +108,7 @@ class Weather():
                 real_weather = str(real_weather[1].text.encode(real_weather[1].encoding), "utf-8")
                 history = self.read_json(self.history)
                 weather = self.explain(weather, info=1)
+                
                 real_weather = self.explain(real_weather, info=2)
                 if history is not False:
                     if history.get(city, False) is False:
