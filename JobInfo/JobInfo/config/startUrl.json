@@ -1,7 +1,7 @@
 {
-    "start": "https://search.51job.com/list/070300%252C070400%252C070500%252C071800%252C070800,000000,0000,00,2,99,python,2,1.html",
-    "default": "https://search.51job.com/list/070300%252C070400%252C070500%252C071800%252C070800,000000,0000,00,2,99,python,2,{}.html",
-    "pageNumber": 200,
-    "table": "python",
-    "city_name": "苏州+无锡+常州+泰州+扬州"
+    "start": "https://search.51job.com/list/070000%252C080000%252C020000,000000,0000,00,1,99,运维,2,1.html",
+    "default": "https://search.51job.com/list/070000%252C080000%252C020000,000000,0000,00,1,99,运维,2,{}.html",
+    "pageNumber": 1000,
+    "table": "运维",
+    "city_name": "江苏省+浙江省+湖南省+广州省+上海"
 }

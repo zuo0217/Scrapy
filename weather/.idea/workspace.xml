@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d288dc0-58e0-471e-996e-d1521342be5b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="天气情况.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天气情况.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="96" column="75" lean-forward="true" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="75" />
+              <folding>
+                <element signature="e#125#140#0" expanded="true" />
+                <element signature="e#587#808#0" />
+                <element signature="e#849#1055#0" />
+                <element signature="e#1146#1375#0" />
+                <element signature="e#1093#1356#0" />
+                <element signature="e#1395#1716#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getWeather.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/getWeather.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+              <folding>
+                <element signature="e#167#182#0" expanded="true" />
+                <element signature="e#252#473#0" />
+                <element signature="e#514#720#0" />
+                <element signature="e#774#1037#0" />
+                <element signature="e#1322#1836#0" />
+                <element signature="e#2131#2913#0" />
+                <element signature="e#2097#2975#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cityInfo.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cityInfo.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#闵行#0;n#!!top" />
+                <element signature="n#!!block;n#上海#0;n#!!top" />
+                <element signature="n#!!block;n#南京#0;n#!!top" />
+                <element signature="n#!!block;n#邵阳#0;n#!!top" />
+                <element signature="e#14129#14346#0" />
+                <element signature="n#!!block;n#泰州#0;n#!!top" />
+                <element signature="n#!!block;n#北京#0;n#!!top" />
+                <element signature="n#!!block;n#苏州#0;n#!!top" />
+                <element signature="n#!!block;n#天津#0;n#!!top" />
+                <element signature="n#!!block;n#日本#0;n#!!top" />
+                <element signature="n#!!block;n#东京#0;n#!!top" />
+                <element signature="n#!!block;n#南宁#0;n#!!top" />
+                <element signature="n#!!block;n#长沙#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="history.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/history.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="212" column="1" lean-forward="true" selection-start-line="212" selection-start-column="1" selection-end-line="212" selection-end-column="1" />
+              <folding>
+                <element signature="e#12#2520#0" />
+                <element signature="e#22#1263#0" />
+                <element signature="e#1273#2514#0" />
+                <element signature="e#2532#3795#0" />
+                <element signature="e#3807#6315#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>limitnumber</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/天气情况.py" />
+        <option value="$PROJECT_DIR$/history.json" />
+        <option value="$PROJECT_DIR$/getWeather.py" />
+        <option value="$PROJECT_DIR$/cityInfo.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="339" />
+    <option name="y" value="23" />
+    <option name="width" value="1457" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Weather" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.getWeather">
+    <configuration name="天气情况" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weather" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天气情况.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="getWeather" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weather" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getWeather.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.天气情况" />
+      <item itemvalue="Python.getWeather" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getWeather" />
+        <item itemvalue="Python.天气情况" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d288dc0-58e0-471e-996e-d1521342be5b" name="Default" comment="" />
+      <created>1528514258735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528514258735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="339" y="23" width="1457" height="1105" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16991644" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.08234127" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32936507" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32936507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天气情况.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="96" column="75" lean-forward="true" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="75" />
+          <folding>
+            <element signature="e#125#140#0" expanded="true" />
+            <element signature="e#587#808#0" />
+            <element signature="e#849#1055#0" />
+            <element signature="e#1146#1375#0" />
+            <element signature="e#1093#1356#0" />
+            <element signature="e#1395#1716#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/history.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1190">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="212" column="1" lean-forward="true" selection-start-line="212" selection-start-column="1" selection-end-line="212" selection-end-column="1" />
+          <folding>
+            <element signature="e#12#2520#0" />
+            <element signature="e#22#1263#0" />
+            <element signature="e#1273#2514#0" />
+            <element signature="e#2532#3795#0" />
+            <element signature="e#3807#6315#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cityInfo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#闵行#0;n#!!top" />
+            <element signature="n#!!block;n#上海#0;n#!!top" />
+            <element signature="n#!!block;n#南京#0;n#!!top" />
+            <element signature="n#!!block;n#邵阳#0;n#!!top" />
+            <element signature="e#14129#14346#0" />
+            <element signature="n#!!block;n#泰州#0;n#!!top" />
+            <element signature="n#!!block;n#北京#0;n#!!top" />
+            <element signature="n#!!block;n#苏州#0;n#!!top" />
+            <element signature="n#!!block;n#天津#0;n#!!top" />
+            <element signature="n#!!block;n#日本#0;n#!!top" />
+            <element signature="n#!!block;n#东京#0;n#!!top" />
+            <element signature="n#!!block;n#南宁#0;n#!!top" />
+            <element signature="n#!!block;n#长沙#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getWeather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#167#182#0" expanded="true" />
+            <element signature="e#252#473#0" />
+            <element signature="e#514#720#0" />
+            <element signature="e#774#1037#0" />
+            <element signature="e#1322#1836#0" />
+            <element signature="e#2131#2913#0" />
+            <element signature="e#2097#2975#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

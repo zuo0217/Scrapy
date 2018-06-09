@@ -1,0 +1,30 @@
+{
+    "city_urls": "http://js.soufunimg.com/homepage/new/family/css/citys20171228.js",
+    "target_url": {
+        "新房": {
+            "main": "http://newhouse.{}.fang.com/",
+            "page-normal": "http://newhouse.{}.fang.com/house/s/b9{}/",
+            "page-parameter": "http://newhouse.{}.fang.com/house/s/{}/"
+        },
+        "二手房": {
+            "main": "http://esf.{}.fang.com/",
+            "page-normal": "http://esf.{}.fang.com/house/i3{}",
+            "page-parameter": "http://esf.{}.fang.com/house/{}/"
+        },
+        "租房": {
+            "main": "http://zu.{}.fang.com/",
+            "page-normal": "http://zu.{}.fang.com/house/i3{}/",
+            "page-parameter": "http://zu.{}.fang.com/house/{}/"
+        },
+        "查房价": "http://fangjia.fang.com/{}/",
+        "装修家居": "http://home.{}.fang.com/",
+        "写字楼": "http://office.{}.fang.com/",
+        "商铺": {
+            "main": "http://shop.{}.fang.com/",
+            "page-normal": "http://shop.{}.fang.com/shou/house/i3{}/"
+        },
+        "业主论坛": "",
+        "房产百科": "http://news.{}.fang.com"
+    },
+    "help info": "租房:\n    c20-d21000-g22-i32\n\n    c2{}-d2{}     价格: 0-1000\n    g2{}          户型: 1 一居，2 二居，3 三居，4 四居，99 四居以上\n    n3{}          方式: 1 整租，/hezu/ 合租，\n\n新房:\n    http://newhouse.nanjing.fang.com/house/s/b210000%2C15000-b92-c22/\n    b210000%2C15000 价格 10000-15000\n    c22             两居室\n    b92             第二页\n\n二手房:\n    http://esf.nanjing.fang.com/house/c2100-d2120-g22-j250-k270-i32/\n    c2100-d2120     价格 100-120万\n    g22             两居室\n    j250-k270       50-70平米\n    i32             第二页\n"
+}

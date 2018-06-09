@@ -44,7 +44,7 @@ def writeStartUrl(url, default, table, city_name, pageNumber=100):
 
 
 if __name__ == "__main__":
-    city = ["苏州", "无锡", "常州", "泰州", "扬州"]
+    city = ["江苏省", "浙江省", "湖南省", "广州省", "上海"]
     city_name = "+".join(city)
 
     if len(sys.argv) > 1:
@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
     url = getUrl(city, table, 1)
     default = getUrl(city, table, "{}")
-    writeStartUrl(url, default, table, city_name, pageNumber=200)
+    writeStartUrl(url, default, table, city_name, pageNumber=1000)
 
     from scrapy import cmdline
 

@@ -1,0 +1,2594 @@
+{
+    "北京": {
+        "spell": "beijing",
+        "url": "http://bj.fang.com/"
+    },
+    "上海": {
+        "spell": "shanghai",
+        "url": "http://sh.fang.com/"
+    },
+    "天津": {
+        "spell": "tianjin",
+        "url": "http://tj.fang.com/"
+    },
+    "重庆": {
+        "spell": "chongqing",
+        "url": "http://cq.fang.com/"
+    },
+    "石家庄": {
+        "spell": "shijiazhuang",
+        "url": "http://sjz.fang.com/"
+    },
+    "唐山": {
+        "spell": "tangshan",
+        "url": "http://ts.fang.com/"
+    },
+    "保定": {
+        "spell": "baoding",
+        "url": "http://bd.fang.com/"
+    },
+    "沧州 ": {
+        "spell": "cangzhou",
+        "url": "http://cangzhou.fang.com/"
+    },
+    "邯郸": {
+        "spell": "handan",
+        "url": "http://hd.fang.com/"
+    },
+    "秦皇岛": {
+        "spell": "qinhuagndao",
+        "url": "http://qhd.fang.com/"
+    },
+    "衡水": {
+        "spell": "hengshui",
+        "url": "http://hs.fang.com/"
+    },
+    "廊坊": {
+        "spell": "langfang",
+        "url": "http://lf.fang.com/"
+    },
+    "邢台": {
+        "spell": "xingtai",
+        "url": "http://xingtai.fang.com/"
+    },
+    "张家口": {
+        "spell": "zhangjiakou",
+        "url": "http://zhangjiakou.fang.com/"
+    },
+    "承德": {
+        "spell": "chengde",
+        "url": "http://chengde.fang.com/"
+    },
+    "太原": {
+        "spell": "taiyuan",
+        "url": "http://taiyuan.fang.com/"
+    },
+    "运城": {
+        "spell": "yuncheng",
+        "url": "http://yuncheng.fang.com/"
+    },
+    "晋城": {
+        "spell": "jincheng",
+        "url": "http://jc.fang.com/"
+    },
+    "大同": {
+        "spell": "datong",
+        "url": "http://datong.fang.com/"
+    },
+    "阳泉": {
+        "spell": "yangquan",
+        "url": "http://yangquan.fang.com/"
+    },
+    "长治": {
+        "spell": "changzhi",
+        "url": "http://changzhi.fang.com/"
+    },
+    "朔州": {
+        "spell": "shuozhou",
+        "url": "http://shuozhou.fang.com/"
+    },
+    "晋中": {
+        "spell": "jinzhong",
+        "url": "http://jinzhong.fang.com/"
+    },
+    "忻州": {
+        "spell": "xinzhou",
+        "url": "http://xinzhou.fang.com/"
+    },
+    "临汾": {
+        "spell": "linfen",
+        "url": "http://linfen.fang.com/"
+    },
+    "吕梁": {
+        "spell": "lvliang",
+        "url": "http://lvliang.fang.com/"
+    },
+    "呼和浩特": {
+        "spell": "huhehaote",
+        "url": "http://nm.fang.com/"
+    },
+    "包头": {
+        "spell": "baotou",
+        "url": "http://bt.fang.com/"
+    },
+    "鄂尔多斯": {
+        "spell": "eerduosi",
+        "url": "http://erds.fang.com/"
+    },
+    "沈阳": {
+        "spell": "shenyang",
+        "url": "http://sy.fang.com/"
+    },
+    "大连": {
+        "spell": "dalian",
+        "url": "http://dl.fang.com/"
+    },
+    "鞍山": {
+        "spell": "anshan",
+        "url": "http://anshan.fang.com/"
+    },
+    "营口": {
+        "spell": "yingkou",
+        "url": "http://yk.fang.com/"
+    },
+    "抚顺": {
+        "spell": "fushun",
+        "url": "http://fushun.fang.com/"
+    },
+    "本溪": {
+        "spell": "benxi",
+        "url": "http://benxi.fang.com/"
+    },
+    "丹东": {
+        "spell": "dandong",
+        "url": "http://dandong.fang.com/"
+    },
+    "锦州": {
+        "spell": "jinzhou",
+        "url": "http://jinzhou.fang.com/"
+    },
+    "阜新": {
+        "spell": "fuxin",
+        "url": "http://fuxin.fang.com/"
+    },
+    "辽阳": {
+        "spell": "liaoyang",
+        "url": "http://liaoyang.fang.com/"
+    },
+    "盘锦": {
+        "spell": "panjin",
+        "url": "http://panjin.fang.com/"
+    },
+    "铁岭": {
+        "spell": "tieling",
+        "url": "http://tieling.fang.com/"
+    },
+    "朝阳": {
+        "spell": "chaoyang",
+        "url": "http://chaoyang.fang.com/"
+    },
+    "葫芦岛": {
+        "spell": "huludao",
+        "url": "http://huludao.fang.com/"
+    },
+    "长春": {
+        "spell": "changchun",
+        "url": "http://changchun.fang.com/"
+    },
+    "吉林": {
+        "spell": "jilin",
+        "url": "http://jl.fang.com/"
+    },
+    "四平": {
+        "spell": "siping",
+        "url": "http://siping.fang.com/"
+    },
+    "辽源": {
+        "spell": "liaoyuan",
+        "url": "http://liaoyuan.fang.com/"
+    },
+    "通化": {
+        "spell": "tonghua",
+        "url": "http://tonghua.fang.com/"
+    },
+    "通辽": {
+        "spell": "tongliao",
+        "url": "http://tl.fang.com/"
+    },
+    "白山": {
+        "spell": "baishan",
+        "url": "http://baishan.fang.com/"
+    },
+    "松原": {
+        "spell": "songyuan",
+        "url": "http://songyuan.fang.com/"
+    },
+    "白城": {
+        "spell": "baicheng",
+        "url": "http://baicheng.fang.com/"
+    },
+    "延边": {
+        "spell": "yanbian",
+        "url": "http://yanbian.fang.com/"
+    },
+    "哈尔滨": {
+        "spell": "haerbin",
+        "url": "http://hrb.fang.com/"
+    },
+    "大庆": {
+        "spell": "daqing",
+        "url": "http://daqing.fang.com/"
+    },
+    "齐齐哈尔": {
+        "spell": "qiqihaer",
+        "url": "http://qiqihaer.fang.com/"
+    },
+    "鸡西": {
+        "spell": "jixi",
+        "url": "http://jixi.fang.com/"
+    },
+    "鹤岗": {
+        "spell": "hegang",
+        "url": "http://hegang.fang.com/"
+    },
+    "双鸭山": {
+        "spell": "shuangyashan",
+        "url": "http://shuangyashan.fang.com/"
+    },
+    "伊春": {
+        "spell": "yichun",
+        "url": "http://hljyichun.fang.com/"
+    },
+    "佳木斯": {
+        "spell": "jiamusi",
+        "url": "http://jiamusi.fang.com/"
+    },
+    "七台河": {
+        "spell": "qitaihe",
+        "url": "http://qitaihe.fang.com/"
+    },
+    "牡丹江": {
+        "spell": "mudanjiang",
+        "url": "http://mudanjiang.fang.com/"
+    },
+    "黑河": {
+        "spell": "heihe",
+        "url": "http://heihe.fang.com/"
+    },
+    "绥化": {
+        "spell": "suihua",
+        "url": "http://suihua.fang.com/"
+    },
+    "南京": {
+        "spell": "nanjing",
+        "url": "http://nanjing.fang.com/"
+    },
+    "苏州": {
+        "spell": "suzhou",
+        "url": "http://suzhou.fang.com/"
+    },
+    "喀什": {
+        "spell": "kashi",
+        "url": "http://kashi.fang.com/"
+    },
+    "阿克苏": {
+        "spell": "akesu",
+        "url": "http://akesu.fang.com/"
+    },
+    "澳大利亚": {
+        "spell": "au",
+        "url": "http://au.fang.com/"
+    },
+    "平潭": {
+        "spell": "pingtan",
+        "url": "http://pingtan.fang.com/"
+    },
+    "黔江": {
+        "spell": "qianjiang",
+        "url": "http://qianjiang.fang.com/"
+    },
+    "常熟": {
+        "spell": "changshu",
+        "url": "http://changshu.fang.com/"
+    },
+    "宿迁": {
+        "spell": "suqian",
+        "url": "http://sq.fang.com/"
+    },
+    "太仓": {
+        "spell": "taicang",
+        "url": "http://tc.fang.com/"
+    },
+    "张家港": {
+        "spell": "zhangjiagang",
+        "url": "http://zjg.fang.com/"
+    },
+    "昆山": {
+        "spell": "kunshan",
+        "url": "http://ks.fang.com/"
+    },
+    "无锡": {
+        "spell": "wuxi",
+        "url": "http://wuxi.fang.com/"
+    },
+    "徐州": {
+        "spell": "xuzhou",
+        "url": "http://xz.fang.com/"
+    },
+    "常州": {
+        "spell": "changzhou",
+        "url": "http://cz.fang.com/"
+    },
+    "淮安": {
+        "spell": "huaian",
+        "url": "http://huaian.fang.com/"
+    },
+    "扬州": {
+        "spell": "yangzhou",
+        "url": "http://yz.fang.com/"
+    },
+    "南通": {
+        "spell": "nantong",
+        "url": "http://nt.fang.com/"
+    },
+    "连云港": {
+        "spell": "lianyungang",
+        "url": "http://lyg.fang.com/"
+    },
+    "江阴": {
+        "spell": "jiangyin",
+        "url": "http://jy.fang.com/"
+    },
+    "镇江": {
+        "spell": "zhenjiang",
+        "url": "http://zhenjiang.fang.com/"
+    },
+    "泰州": {
+        "spell": "taizhou",
+        "url": "http://taizhou.fang.com/"
+    },
+    "盐城": {
+        "spell": "yancheng",
+        "url": "http://yancheng.fang.com/"
+    },
+    "杭州": {
+        "spell": "hangzhou",
+        "url": "http://hz.fang.com/"
+    },
+    "宁波": {
+        "spell": "ningbo",
+        "url": "http://nb.fang.com/"
+    },
+    "嘉兴": {
+        "spell": "jiaxing",
+        "url": "http://jx.fang.com/"
+    },
+    "绍兴": {
+        "spell": "shaoxing",
+        "url": "http://sx.fang.com/"
+    },
+    "湖州": {
+        "spell": "huzhou",
+        "url": "http://huzhou.fang.com/"
+    },
+    "舟山": {
+        "spell": "zhoushan",
+        "url": "http://zhoushan.fang.com/"
+    },
+    "金华": {
+        "spell": "jinhua",
+        "url": "http://jh.fang.com/"
+    },
+    "丽水": {
+        "spell": "lishui",
+        "url": "http://ls.fang.com/"
+    },
+    "台州": {
+        "spell": "taizhou",
+        "url": "http://tz.fang.com/"
+    },
+    "温州": {
+        "spell": "wenzhou",
+        "url": "http://wz.fang.com/"
+    },
+    "衢州": {
+        "spell": "quzhou",
+        "url": "http://quzhou.fang.com/"
+    },
+    "合肥": {
+        "spell": "hefei",
+        "url": "http://hf.fang.com/"
+    },
+    "芜湖": {
+        "spell": "wuhu",
+        "url": "http://wuhu.fang.com/"
+    },
+    "蚌埠": {
+        "spell": "bengbu",
+        "url": "http://bengbu.fang.com/"
+    },
+    "潜江": {
+        "spell": "qj",
+        "url": "http://qj.fang.com/"
+    },
+    "仙桃": {
+        "spell": "xiantao",
+        "url": "http://xiantao.fang.com/"
+    },
+    "神农架": {
+        "spell": "shennongjia",
+        "url": "http://shennongjia.fang.com"
+    },
+    "天门": {
+        "spell": "tianmen",
+        "url": "http://tianmen.fang.com/"
+    },
+    "马鞍山": {
+        "spell": "maanshan",
+        "url": "http://mas.fang.com/"
+    },
+    "淮南": {
+        "spell": "huainan",
+        "url": "http://huainan.fang.com/"
+    },
+    "淮北": {
+        "spell": "huaibei",
+        "url": "http://huaibei.fang.com/"
+    },
+    "铜陵": {
+        "spell": "tongling",
+        "url": "http://tongling.fang.com/"
+    },
+    "安庆": {
+        "spell": "anqing",
+        "url": "http://anqing.fang.com/"
+    },
+    "黄山": {
+        "spell": "huangshan",
+        "url": "http://huangshan.fang.com/"
+    },
+    "滁州": {
+        "spell": "chuzhou",
+        "url": "http://chuzhou.fang.com/"
+    },
+    "阜阳": {
+        "spell": "fuyang",
+        "url": "http://fuyang.fang.com/"
+    },
+    "宿州": {
+        "spell": "suzhou",
+        "url": "http://ahsuzhou.fang.com/"
+    },
+    "巢湖": {
+        "spell": "chaohu",
+        "url": "http://chaohu.fang.com/"
+    },
+    "六安": {
+        "spell": "luan",
+        "url": "http://luan.fang.com/"
+    },
+    "亳州": {
+        "spell": "bozhou",
+        "url": "http://bozhou.fang.com/"
+    },
+    "池州": {
+        "spell": "chizhou",
+        "url": "http://chizhou.fang.com/"
+    },
+    "高密": {
+        "spell": "gaomi",
+        "url": "http://gaomi.fang.com/"
+    },
+    "宣城": {
+        "spell": "xuancheng",
+        "url": "http://xuancheng.fang.com/"
+    },
+    "福州": {
+        "spell": "fuzhou",
+        "url": "http://fz.fang.com/"
+    },
+    "厦门": {
+        "spell": "xiamen",
+        "url": "http://xm.fang.com/"
+    },
+    "泉州": {
+        "spell": "quanzhou",
+        "url": "http://qz.fang.com/"
+    },
+    "莆田": {
+        "spell": "putian",
+        "url": "http://putian.fang.com/"
+    },
+    "三明": {
+        "spell": "sanming",
+        "url": "http://sanming.fang.com/"
+    },
+    "漳州": {
+        "spell": "zhangzhou",
+        "url": "http://zhangzhou.fang.com/"
+    },
+    "南平": {
+        "spell": "nanping",
+        "url": "http://nanping.fang.com/"
+    },
+    "龙岩": {
+        "spell": "longyan",
+        "url": "http://longyan.fang.com/"
+    },
+    "宁德": {
+        "spell": "ningde",
+        "url": "http://ningde.fang.com/"
+    },
+    "南昌": {
+        "spell": "nanchang",
+        "url": "http://nc.fang.com/"
+    },
+    "九江": {
+        "spell": "jiujiang",
+        "url": "http://jiujiang.fang.com/"
+    },
+    "赣州": {
+        "spell": "ganzhou",
+        "url": "http://ganzhou.fang.com/"
+    },
+    "景德镇": {
+        "spell": "jingdezhen",
+        "url": "http://jingdezhen.fang.com/"
+    },
+    "萍乡": {
+        "spell": "pingxiang",
+        "url": "http://pingxiang.fang.com/"
+    },
+    "新余": {
+        "spell": "xinyu",
+        "url": "http://xinyu.fang.com/"
+    },
+    "鹰潭": {
+        "spell": "yingtan",
+        "url": "http://yingtan.fang.com/"
+    },
+    "吉安": {
+        "spell": "jian",
+        "url": "http://jian.fang.com/"
+    },
+    "宜春": {
+        "spell": "yichun",
+        "url": "http://yichun.fang.com/"
+    },
+    "抚州": {
+        "spell": "fuzhou",
+        "url": "http://jxfuzhou.fang.com/"
+    },
+    "上饶": {
+        "spell": "shangrao",
+        "url": "http://shangrao.fang.com/"
+    },
+    "济南": {
+        "spell": "jinan",
+        "url": "http://jn.fang.com/"
+    },
+    "青岛": {
+        "spell": "qingdao",
+        "url": "http://qd.fang.com/"
+    },
+    "淄博": {
+        "spell": "zibo",
+        "url": "http://zb.fang.com/"
+    },
+    "东营": {
+        "spell": "dongying",
+        "url": "http://dy.fang.com/"
+    },
+    "烟台": {
+        "spell": "yantai",
+        "url": "http://yt.fang.com/"
+    },
+    "潍坊": {
+        "spell": "weifang",
+        "url": "http://wf.fang.com/"
+    },
+    "威海": {
+        "spell": "weihai",
+        "url": "http://weihai.fang.com/"
+    },
+    "临沂": {
+        "spell": "linyi",
+        "url": "http://linyi.fang.com/"
+    },
+    "菏泽": {
+        "spell": "heze",
+        "url": "http://heze.fang.com/"
+    },
+    "聊城": {
+        "spell": "liaocheng",
+        "url": "http://lc.fang.com/"
+    },
+    "日照": {
+        "spell": "rizhao",
+        "url": "http://rz.fang.com/"
+    },
+    "德州": {
+        "spell": "dezhou",
+        "url": "http://dz.fang.com/"
+    },
+    "枣庄": {
+        "spell": "zaozhuang",
+        "url": "http://zaozhuang.fang.com/"
+    },
+    "济宁": {
+        "spell": "jining",
+        "url": "http://jining.fang.com/"
+    },
+    "泰安": {
+        "spell": "taian",
+        "url": "http://taian.fang.com/"
+    },
+    "莱芜": {
+        "spell": "laiwu",
+        "url": "http://laiwu.fang.com/"
+    },
+    "滨州": {
+        "spell": "binzhou",
+        "url": "http://binzhou.fang.com/"
+    },
+    "郑州": {
+        "spell": "zhengzhou",
+        "url": "http://zz.fang.com/"
+    },
+    "洛阳": {
+        "spell": "luoyang",
+        "url": "http://ly.fang.com/"
+    },
+    "新乡": {
+        "spell": "xinxiang",
+        "url": "http://xx.fang.com/"
+    },
+    "开封": {
+        "spell": "kaifeng",
+        "url": "http://kaifeng.fang.com/"
+    },
+    "平顶山": {
+        "spell": "pingdingshan",
+        "url": "http://pingdingshan.fang.com/"
+    },
+    "安阳": {
+        "spell": "anyang",
+        "url": "http://anyang.fang.com/"
+    },
+    "鹤壁": {
+        "spell": "hebi",
+        "url": "http://hebi.fang.com/"
+    },
+    "焦作": {
+        "spell": "jiaozuo",
+        "url": "http://jiaozuo.fang.com/"
+    },
+    "濮阳": {
+        "spell": "puyang",
+        "url": "http://puyang.fang.com/"
+    },
+    "许昌": {
+        "spell": "xuchang",
+        "url": "http://xuchang.fang.com/"
+    },
+    "漯河": {
+        "spell": "luohe",
+        "url": "http://luohe.fang.com/"
+    },
+    "三门峡": {
+        "spell": "sanmenxia",
+        "url": "http://sanmenxia.fang.com/"
+    },
+    "南阳": {
+        "spell": "nanyang",
+        "url": "http://nanyang.fang.com/"
+    },
+    "商丘": {
+        "spell": "shangqiu",
+        "url": "http://shangqiu.fang.com/"
+    },
+    "信阳": {
+        "spell": "xinyang",
+        "url": "http://xinyang.fang.com/"
+    },
+    "周口": {
+        "spell": "zhoukou",
+        "url": "http://zhoukou.fang.com/"
+    },
+    "驻马店": {
+        "spell": "zhumadian",
+        "url": "http://zhumadian.fang.com/"
+    },
+    "武汉": {
+        "spell": "wuhan",
+        "url": "http://wuhan.fang.com/"
+    },
+    "宜昌": {
+        "spell": "yichang",
+        "url": "http://yc.fang.com/"
+    },
+    "黄石": {
+        "spell": "huangshi",
+        "url": "http://huangshi.fang.com/"
+    },
+    "十堰": {
+        "spell": "shiyan",
+        "url": "http://shiyan.fang.com/"
+    },
+    "襄阳": {
+        "spell": "xiangyang",
+        "url": "http://xiangyang.fang.com/"
+    },
+    "鄂州": {
+        "spell": "ezhou",
+        "url": "http://ezhou.fang.com/"
+    },
+    "荆门": {
+        "spell": "jingmen",
+        "url": "http://jingmen.fang.com/"
+    },
+    "孝感": {
+        "spell": "xiaogan",
+        "url": "http://xiaogan.fang.com/"
+    },
+    "荆州": {
+        "spell": "jingzhou",
+        "url": "http://jingzhou.fang.com/"
+    },
+    "黄冈": {
+        "spell": "huanggang",
+        "url": "http://huanggang.fang.com/"
+    },
+    "咸宁": {
+        "spell": "xianning",
+        "url": "http://xianning.fang.com/"
+    },
+    "随州": {
+        "spell": "suizhou",
+        "url": "http://suizhou.fang.com/"
+    },
+    "恩施": {
+        "spell": "enshi",
+        "url": "http://enshi.fang.com/"
+    },
+    "长沙": {
+        "spell": "changsha",
+        "url": "http://cs.fang.com/"
+    },
+    "湘潭": {
+        "spell": "xiangtan",
+        "url": "http://xt.fang.com/"
+    },
+    "株洲": {
+        "spell": "zhuzhou",
+        "url": "http://zhuzhou.fang.com/"
+    },
+    "衡阳": {
+        "spell": "hengyang",
+        "url": "http://hengyang.fang.com/"
+    },
+    "邵阳": {
+        "spell": "shaoyang",
+        "url": "http://shaoyang.fang.com/"
+    },
+    "岳阳": {
+        "spell": "yueyang",
+        "url": "http://yueyang.fang.com/"
+    },
+    "常德": {
+        "spell": "changde",
+        "url": "http://changde.fang.com/"
+    },
+    "张家界": {
+        "spell": "zhangjiajie",
+        "url": "http://zhangjiajie.fang.com/"
+    },
+    "益阳": {
+        "spell": "yiyang",
+        "url": "http://yiyang.fang.com/"
+    },
+    "郴州": {
+        "spell": "chenzhou",
+        "url": "http://chenzhou.fang.com/"
+    },
+    "永州": {
+        "spell": "yongzhou",
+        "url": "http://yongzhou.fang.com/"
+    },
+    "怀化": {
+        "spell": "huaihua",
+        "url": "http://huaihua.fang.com/"
+    },
+    "娄底": {
+        "spell": "loudi",
+        "url": "http://loudi.fang.com/"
+    },
+    "湘西": {
+        "spell": "xiangxi",
+        "url": "http://xiangxi.fang.com/"
+    },
+    "广州": {
+        "spell": "guangzhou",
+        "url": "http://gz.fang.com/"
+    },
+    "深圳": {
+        "spell": "shenzhen",
+        "url": "http://sz.fang.com/"
+    },
+    "珠海": {
+        "spell": "zhuhai",
+        "url": "http://zh.fang.com/"
+    },
+    "佛山": {
+        "spell": "foshan",
+        "url": "http://fs.fang.com/"
+    },
+    "顺德": {
+        "spell": "shunde",
+        "url": "http://shunde.fang.com/"
+    },
+    "江门": {
+        "spell": "jiangmen",
+        "url": "http://jm.fang.com/"
+    },
+    "惠州": {
+        "spell": "huizhou",
+        "url": "http://huizhou.fang.com/"
+    },
+    "东莞": {
+        "spell": "dongguan",
+        "url": "http://dg.fang.com/"
+    },
+    "中山": {
+        "spell": "zhongshan",
+        "url": "http://zs.fang.com/"
+    },
+    "汕头": {
+        "spell": "shantou",
+        "url": "http://st.fang.com/"
+    },
+    "湛江": {
+        "spell": "zhanjiang",
+        "url": "http://zj.fang.com/"
+    },
+    "韶关": {
+        "spell": "shaoguan",
+        "url": "http://shaoguan.fang.com/"
+    },
+    "茂名": {
+        "spell": "maoming",
+        "url": "http://maoming.fang.com/"
+    },
+    "肇庆": {
+        "spell": "zhaoqing",
+        "url": "http://zhaoqing.fang.com/"
+    },
+    "梅州": {
+        "spell": "meizhou",
+        "url": "http://meizhou.fang.com/"
+    },
+    "汕尾": {
+        "spell": "shanwei",
+        "url": "http://shanwei.fang.com/"
+    },
+    "河源": {
+        "spell": "heyuan",
+        "url": "http://heyuan.fang.com/"
+    },
+    "阳江": {
+        "spell": "yangjiang",
+        "url": "http://yangjiang.fang.com/"
+    },
+    "清远": {
+        "spell": "qingyuan",
+        "url": "http://qingyuan.fang.com/"
+    },
+    "潮州": {
+        "spell": "chaozhou",
+        "url": "http://chaozhou.fang.com"
+    },
+    "揭阳": {
+        "spell": "jieyang",
+        "url": "http://jieyang.fang.com/"
+    },
+    "云浮": {
+        "spell": "yunfu",
+        "url": "http://yunfu.fang.com"
+    },
+    "南宁": {
+        "spell": "nanning",
+        "url": "http://nn.fang.com/"
+    },
+    "柳州": {
+        "spell": "liuzhou",
+        "url": "http://liuzhou.fang.com/"
+    },
+    "东兴": {
+        "spell": "dongxing",
+        "url": "http://dongxing.fang.com/"
+    },
+    "桂林": {
+        "spell": "guilin",
+        "url": "http://guilin.fang.com/"
+    },
+    "北海": {
+        "spell": "beihai",
+        "url": "http://bh.fang.com/"
+    },
+    "玉林": {
+        "spell": "yulin",
+        "url": "http://yl.fang.com/"
+    },
+    "梧州": {
+        "spell": "wuzhou",
+        "url": "http://wuzhou.fang.com/"
+    },
+    "防城港": {
+        "spell": "fangchenggang",
+        "url": "http://fangchenggang.fang.com/"
+    },
+    "钦州": {
+        "spell": "qinzhou",
+        "url": "http://qinzhou.fang.com/"
+    },
+    "贵港": {
+        "spell": "guigang",
+        "url": "http://guigang.fang.com/"
+    },
+    "百色": {
+        "spell": "baise",
+        "url": "http://baise.fang.com/"
+    },
+    "贺州": {
+        "spell": "hezhou",
+        "url": "http://hezhou.fang.com/"
+    },
+    "河池": {
+        "spell": "hechi",
+        "url": "http://hechi.fang.com/"
+    },
+    "来宾": {
+        "spell": "laibin",
+        "url": "http://laibin.fang.com/"
+    },
+    "崇左": {
+        "spell": "chongzuo",
+        "url": "http://chongzuo.fang.com/"
+    },
+    "成都": {
+        "spell": "chengdu",
+        "url": "http://cd.fang.com/"
+    },
+    "绵阳": {
+        "spell": "mianyang",
+        "url": "http://mianyang.fang.com/"
+    },
+    "乐山": {
+        "spell": "leshan",
+        "url": "http://leshan.fang.com/"
+    },
+    "自贡": {
+        "spell": "zigong",
+        "url": "http://zigong.fang.com/"
+    },
+    "攀枝花": {
+        "spell": "panzhihua",
+        "url": "http://panzhihua.fang.com"
+    },
+    "德阳": {
+        "spell": "deyang",
+        "url": "http://deyang.fang.com/"
+    },
+    "泸州": {
+        "spell": "luzhou",
+        "url": "http://luzhou.fang.com/"
+    },
+    "广元": {
+        "spell": "guangyuan",
+        "url": "http://guangyuan.fang.com/"
+    },
+    "遂宁": {
+        "spell": "suining",
+        "url": "http://suining.fang.com/"
+    },
+    "内江": {
+        "spell": "neijiang",
+        "url": "http://neijiang.fang.com/"
+    },
+    "南充": {
+        "spell": "nanchong",
+        "url": "http://nanchong.fang.com/"
+    },
+    "眉山": {
+        "spell": "meishan",
+        "url": "http://meishan.fang.com/"
+    },
+    "宜宾": {
+        "spell": "yibin",
+        "url": "http://yibin.fang.com/"
+    },
+    "广安": {
+        "spell": "guangan",
+        "url": "http://guangan.fang.com/"
+    },
+    "达州": {
+        "spell": "dazhou",
+        "url": "http://dazhou.fang.com/"
+    },
+    "雅安": {
+        "spell": "yaan",
+        "url": "http://yaan.fang.com/"
+    },
+    "巴中": {
+        "spell": "bazhong",
+        "url": "http://bazhong.fang.com/"
+    },
+    "资阳": {
+        "spell": "ziyang",
+        "url": "http://ziyang.fang.com/"
+    },
+    "凉山": {
+        "spell": "liangshan",
+        "url": "http://liangshan.fang.com/"
+    },
+    "贵阳": {
+        "spell": "guiyang",
+        "url": "http://gy.fang.com/"
+    },
+    "六盘水": {
+        "spell": "liupanshui",
+        "url": "http://liupanshui.fang.com/"
+    },
+    "遵义": {
+        "spell": "zunyi",
+        "url": "http://zunyi.fang.com/"
+    },
+    "安顺": {
+        "spell": "anshun",
+        "url": "http://anshun.fang.com/"
+    },
+    "铜仁": {
+        "spell": "tongren",
+        "url": "http://tongren.fang.com/"
+    },
+    "黔西南": {
+        "spell": "qianxinan",
+        "url": "http://qianxinan.fang.com/"
+    },
+    "毕节": {
+        "spell": "bijie",
+        "url": "http://bijie.fang.com/"
+    },
+    "黔东南": {
+        "spell": "qiandongnan",
+        "url": "http://qiandongnan.fang.com/"
+    },
+    "黔南": {
+        "spell": "qiannan",
+        "url": "http://qiannan.fang.com/"
+    },
+    "昆明": {
+        "spell": "kunming",
+        "url": "http://km.fang.com/"
+    },
+    "曲靖": {
+        "spell": "qujing",
+        "url": "http://qujing.fang.com/"
+    },
+    "玉溪": {
+        "spell": "yuxi",
+        "url": "http://yuxi.fang.com"
+    },
+    "保山": {
+        "spell": "baoshan",
+        "url": "http://baoshan.fang.com/"
+    },
+    "昭通": {
+        "spell": "zhaotong",
+        "url": "http://zhaotong.fang.com/"
+    },
+    "丽江": {
+        "spell": "lijiang",
+        "url": "http://lijiang.fang.com/"
+    },
+    "普洱": {
+        "spell": "puer",
+        "url": "http://puer.fang.com/"
+    },
+    "临沧": {
+        "spell": "lincang",
+        "url": "http://lincang.fang.com/"
+    },
+    "楚雄": {
+        "spell": "chuxiong",
+        "url": "http://chuxiong.fang.com/"
+    },
+    "红河": {
+        "spell": "honghe",
+        "url": "http://honghe.fang.com/"
+    },
+    "文山": {
+        "spell": "wenshan",
+        "url": "http://wenshan.fang.com/"
+    },
+    "西双版纳": {
+        "spell": "xishuangbanna",
+        "url": "http://xishuangbanna.fang.com/"
+    },
+    "大理": {
+        "spell": "dali",
+        "url": "http://dali.fang.com/"
+    },
+    "巴彦淖尔": {
+        "spell": "byne",
+        "url": "http://byne.fang.com/"
+    },
+    "德宏": {
+        "spell": "dehong",
+        "url": "http://dehong.fang.com/"
+    },
+    "海口": {
+        "spell": "haikou",
+        "url": "http://hn.fang.com/"
+    },
+    "三亚": {
+        "spell": "sanya",
+        "url": "http://sanya.fang.com/"
+    },
+    "西安": {
+        "spell": "xian",
+        "url": "http://xian.fang.com/"
+    },
+    "宝鸡": {
+        "spell": "baoji",
+        "url": "http://baoji.fang.com/"
+    },
+    "铜川": {
+        "spell": "tongchuan",
+        "url": "http://tongchuan.fang.com/"
+    },
+    "咸阳": {
+        "spell": "xianyang",
+        "url": "http://xianyang.fang.com/"
+    },
+    "渭南": {
+        "spell": "weinan",
+        "url": "http://weinan.fang.com/"
+    },
+    "延安": {
+        "spell": "yanan",
+        "url": "http://yanan.fang.com/"
+    },
+    "汉中": {
+        "spell": "hanzhong",
+        "url": "http://hanzhong.fang.com/"
+    },
+    "榆林": {
+        "spell": "sxyulin",
+        "url": "http://sxyulin.fang.com/"
+    },
+    "安康": {
+        "spell": "ankang",
+        "url": "http://ankang.fang.com/"
+    },
+    "商洛": {
+        "spell": "shangluo",
+        "url": "http://shangluo.fang.com/"
+    },
+    "兰州": {
+        "spell": "lanzhou",
+        "url": "http://lz.fang.com/"
+    },
+    "嘉峪关": {
+        "spell": "jiayuguan",
+        "url": "http://jiayuguan.fang.com/"
+    },
+    "金昌": {
+        "spell": "jinchang",
+        "url": "http://jinchang.fang.com/"
+    },
+    "白银": {
+        "spell": "baiyin",
+        "url": "http://baiyin.fang.com/"
+    },
+    "天水": {
+        "spell": "tianshui",
+        "url": "http://tianshui.fang.com/"
+    },
+    "武威": {
+        "spell": "wuwei",
+        "url": "http://wuwei.fang.com/"
+    },
+    "张掖": {
+        "spell": "zhangye",
+        "url": "http://zhangye.fang.com/"
+    },
+    "平凉": {
+        "spell": "pingliang",
+        "url": "http://pingliang.fang.com/"
+    },
+    "酒泉": {
+        "spell": "jiuquan",
+        "url": "http://jiuquan.fang.com/"
+    },
+    "庆阳": {
+        "spell": "qingyang",
+        "url": "http://qingyang.fang.com/"
+    },
+    "定西": {
+        "spell": "dingxi",
+        "url": "http://dingxi.fang.com/"
+    },
+    "陇南": {
+        "spell": "longnan",
+        "url": "http://longnan.fang.com/"
+    },
+    "银川": {
+        "spell": "yinchuan",
+        "url": "http://yinchuan.fang.com/"
+    },
+    "石嘴山": {
+        "spell": "shizuishan",
+        "url": "http://shizuishan.fang.com/"
+    },
+    "吴忠": {
+        "spell": "wuzhong",
+        "url": "http://wuzhong.fang.com/"
+    },
+    "固原": {
+        "spell": "guyuan",
+        "url": "http://guyuan.fang.com/"
+    },
+    "中卫": {
+        "spell": "zhongwei",
+        "url": "http://zhongwei.fang.com/"
+    },
+    "西宁": {
+        "spell": "xining",
+        "url": "http://xn.fang.com/"
+    },
+    "乌鲁木齐": {
+        "spell": "wulumuqi",
+        "url": "http://xj.fang.com/"
+    },
+    "克拉玛依": {
+        "spell": "kelamayi",
+        "url": "http://kelamayi.fang.com/"
+    },
+    "香港": {
+        "spell": "xianggang",
+        "url": "http://www.hkproperty.com/"
+    },
+    "台湾": {
+        "spell": "taiwan",
+        "url": "http://www.twproperty.com/.tw/"
+    },
+    "新加坡": {
+        "spell": "xinjiapo",
+        "url": "http://www.sgproperty.com/"
+    },
+    "温哥华": {
+        "spell": "wengehua",
+        "url": "http://vancouver.fang.com/"
+    },
+    "万州": {
+        "spell": "wanzhou",
+        "url": "http://wanzhou.fang.com"
+    },
+    "涪陵": {
+        "spell": "fuling",
+        "url": "http://fuling.fang.com"
+    },
+    "綦江": {
+        "spell": "qijiang",
+        "url": "http://qijiang.fang.com"
+    },
+    "合川": {
+        "spell": "hechuan",
+        "url": "http://hechuan.fang.com"
+    },
+    "德清": {
+        "spell": "deqing",
+        "url": "http://deqing.fang.com"
+    },
+    "固安": {
+        "spell": "guan",
+        "url": "http://guan.fang.com"
+    },
+    "燕郊": {
+        "spell": "yanjiao",
+        "url": "http://esf.lf.fang.com/house-a010271/"
+    },
+    "香河": {
+        "spell": "xianghe",
+        "url": "http://esf.lf.fang.com/house-a010273/"
+    },
+    "涿州": {
+        "spell": "zhuozhou",
+        "url": "http://zhuozhou.fang.com"
+    },
+    "吴江": {
+        "spell": "wujiang",
+        "url": "http://esf.wj.fang.com/"
+    },
+    "永川": {
+        "spell": "yongchuan",
+        "url": "http://yongchuan.fang.com"
+    },
+    "海外": {
+        "spell": "haiwai",
+        "url": "http://world.fang.com"
+    },
+    "纽约": {
+        "spell": "ny",
+        "url": "http://ny.fang.com"
+    },
+    "洛杉矶": {
+        "spell": "la",
+        "url": "http://la.fang.com"
+    },
+    "旧金山": {
+        "spell": "sf",
+        "url": "http://sf.fang.com"
+    },
+    "波士顿": {
+        "spell": "boston",
+        "url": "http://boston.fang.com"
+    },
+    "保加利亚": {
+        "spell": "bulgaria",
+        "url": "http://bulgaria.fang.com"
+    },
+    "澳门": {
+        "spell": "macau",
+        "url": "http://macau.fang.com"
+    },
+    "海宁": {
+        "spell": "haining",
+        "url": "http://haining.fang.com"
+    },
+    "芝加哥": {
+        "spell": "chicago",
+        "url": "http://chicago.fang.com"
+    },
+    "江津": {
+        "spell": "cqjiangjin",
+        "url": "http://cqjiangjin.fang.com"
+    },
+    "铜梁": {
+        "spell": "cqtongliang",
+        "url": "http://cqtongliang.fang.com"
+    },
+    "长寿": {
+        "spell": "cqchangshou",
+        "url": "http://cqchangshou.fang.com"
+    },
+    "南川": {
+        "spell": "cqnanchuan",
+        "url": "http://cqnanchuan.fang.com"
+    },
+    "遵化": {
+        "spell": "zunhua",
+        "url": "http://zunhua.fang.com"
+    },
+    "迁安": {
+        "spell": "qianan",
+        "url": "http://qianan.fang.com"
+    },
+    "临猗": {
+        "spell": "sxly",
+        "url": "http://sxly.fang.com"
+    },
+    "阿拉善盟": {
+        "spell": "alsm",
+        "url": "http://alsm.fang.com"
+    },
+    "海拉尔": {
+        "spell": "hailaer",
+        "url": "http://zu.hailaer.fang.com/"
+    },
+    "呼伦贝尔": {
+        "spell": "hlbe",
+        "url": "http://hlbe.fang.com/"
+    },
+    "乌海": {
+        "spell": "wuhai",
+        "url": "http://wuhai.fang.com/"
+    },
+    "锡林郭勒盟": {
+        "spell": "xlglm",
+        "url": "http://zu.xlglm.fang.com/"
+    },
+    "兴安盟": {
+        "spell": "xam",
+        "url": "http://xam.fang.com/"
+    },
+    "普兰店": {
+        "spell": "pulandian",
+        "url": "http://pulandian.fang.com"
+    },
+    "大兴安岭": {
+        "spell": "dxal",
+        "url": "http://dxal.fang.com"
+    },
+    "邳州": {
+        "spell": "pizhou",
+        "url": "http://pizhou.fang.com"
+    },
+    "启东": {
+        "spell": "qidong",
+        "url": "http://qidong.fang.com"
+    },
+    "溧阳": {
+        "spell": "liyang",
+        "url": "http://liyang.fang.com"
+    },
+    "东台": {
+        "spell": "dongtai",
+        "url": "http://dongtai.fang.com"
+    },
+    "泰兴": {
+        "spell": "taixing",
+        "url": "http://taixing.fang.com"
+    },
+    "兴化": {
+        "spell": "xinghua",
+        "url": "http://xinghua.fang.com"
+    },
+    "海门": {
+        "spell": "haimen",
+        "url": "http://haimen.fang.com"
+    },
+    "如皋": {
+        "spell": "rugao",
+        "url": "http://rugao.fang.com"
+    },
+    "江都": {
+        "spell": "jiangdu",
+        "url": "http://jiangdu.fang.com"
+    },
+    "新沂": {
+        "spell": "xinyi",
+        "url": "http://xinyi.fang.com"
+    },
+    "高邮": {
+        "spell": "gaoyou",
+        "url": "http://gaoyou.fang.com"
+    },
+    "靖江": {
+        "spell": "jingjiang",
+        "url": "http://jingjiang.fang.com"
+    },
+    "宜兴": {
+        "spell": "yixing",
+        "url": "http://yixing.fang.com"
+    },
+    "沭阳": {
+        "spell": "shuyang",
+        "url": "http://shuyang.fang.com"
+    },
+    "长兴": {
+        "spell": "changxing",
+        "url": "http://changxing.fang.com"
+    },
+    "宁海": {
+        "spell": "ninghai",
+        "url": "http://ninghai.fang.com"
+    },
+    "富阳": {
+        "spell": "zjfy",
+        "url": "http://zjfy.fang.com"
+    },
+    "平湖": {
+        "spell": "pinghu",
+        "url": "http://pinghu.fang.com"
+    },
+    "永康": {
+        "spell": "yongkang",
+        "url": "http://yongkang.fang.com"
+    },
+    "上虞": {
+        "spell": "shangyu",
+        "url": "http://shangyu.fang.com"
+    },
+    "桐乡": {
+        "spell": "tongxiang",
+        "url": "http://tongxiang.fang.com"
+    },
+    "余姚": {
+        "spell": "yuyao",
+        "url": "http://yuyao.fang.com"
+    },
+    "临海": {
+        "spell": "linhai",
+        "url": "http://linhai.fang.com"
+    },
+    "诸暨": {
+        "spell": "zhuji",
+        "url": "http://zhuji.fang.com"
+    },
+    "温岭": {
+        "spell": "wenling",
+        "url": "http://wenling.fang.com"
+    },
+    "乐清": {
+        "spell": "yueqing",
+        "url": "http://yueqing.fang.com"
+    },
+    "慈溪": {
+        "spell": "cixi",
+        "url": "http://cixi.fang.com"
+    },
+    "义乌": {
+        "spell": "yiwu",
+        "url": "http://yiwu.fang.com"
+    },
+    "瑞安": {
+        "spell": "ruian",
+        "url": "http://ruian.fang.com"
+    },
+    "桐城": {
+        "spell": "tongcheng",
+        "url": "http://tongcheng.fang.com"
+    },
+    "霍邱": {
+        "spell": "huoqiu",
+        "url": "http://huoqiu.fang.com"
+    },
+    "福清": {
+        "spell": "fq",
+        "url": "http://fq.fang.com"
+    },
+    "南安": {
+        "spell": "nanan",
+        "url": "http://nanan.fang.com"
+    },
+    "惠安": {
+        "spell": "huian",
+        "url": "http://huian.fang.com"
+    },
+    "长乐": {
+        "spell": "changle",
+        "url": "http://changle.fang.com"
+    },
+    "石狮": {
+        "spell": "shishi",
+        "url": "http://shishi.fang.com"
+    },
+    "龙海": {
+        "spell": "longhai",
+        "url": "http://longhai.fang.com"
+    },
+    "章丘": {
+        "spell": "zhangqiu",
+        "url": "http://zhangqiu.fang.com"
+    },
+    "诸城": {
+        "spell": "zhucheng",
+        "url": "http://zhucheng.fang.com"
+    },
+    "招远": {
+        "spell": "zy",
+        "url": "http://zy.fang.com"
+    },
+    "寿光": {
+        "spell": "sg",
+        "url": "http://sg.fang.com"
+    },
+    "邹城": {
+        "spell": "zoucheng",
+        "url": "http://zoucheng.fang.com"
+    },
+    "滕州": {
+        "spell": "tengzhou",
+        "url": "http://tengzhou.fang.com"
+    },
+    "平度": {
+        "spell": "pingdu",
+        "url": "http://pingdu.fang.com"
+    },
+    "新泰": {
+        "spell": "xintai",
+        "url": "http://xintai.fang.com"
+    },
+    "肥城": {
+        "spell": "feicheng",
+        "url": "http://feicheng.fang.com"
+    },
+    "莱州": {
+        "spell": "laizhou",
+        "url": "http://laizhou.fang.com"
+    },
+    "邹平": {
+        "spell": "zouping",
+        "url": "http://zouping.fang.com"
+    },
+    "胶南": {
+        "spell": "jiaonan",
+        "url": "http://jiaonan.fang.com"
+    },
+    "龙口": {
+        "spell": "longkou",
+        "url": "http://longkou.fang.com"
+    },
+    "汝州": {
+        "spell": "ruzhou",
+        "url": "http://ruzhou.fang.com"
+    },
+    "济源": {
+        "spell": "jiyuan",
+        "url": "http://jiyuan.fang.com"
+    },
+    "鄢陵": {
+        "spell": "yanling",
+        "url": "http://yanling.fang.com"
+    },
+    "禹州": {
+        "spell": "hnyz",
+        "url": "http://hnyz.fang.com"
+    },
+    "长葛": {
+        "spell": "changge",
+        "url": "http://changge.fang.com"
+    },
+    "巩义": {
+        "spell": "gongyi",
+        "url": "http://gongyi.fang.com"
+    },
+    "阿坝州": {
+        "spell": "abazhou",
+        "url": "http://abazhou.fang.com"
+    },
+    "甘孜": {
+        "spell": "ganzi",
+        "url": "http://ganzi.fang.com"
+    },
+    "迪庆": {
+        "spell": "diqing",
+        "url": "http://diqing.fang.com"
+    },
+    "怒江": {
+        "spell": "nujiang",
+        "url": "http://nujiang.fang.com"
+    },
+    "三沙": {
+        "spell": "sansha",
+        "url": "http://sansha.fang.com"
+    },
+    "五指山": {
+        "spell": "wuzhishan",
+        "url": "http://wuzhishan.fang.com"
+    },
+    "甘南": {
+        "spell": "gannan",
+        "url": "http://gannan.fang.com"
+    },
+    "临夏": {
+        "spell": "linxia",
+        "url": "http://linxia.fang.com"
+    },
+    "果洛": {
+        "spell": "guoluo",
+        "url": "http://guoluo.fang.com"
+    },
+    "黄南": {
+        "spell": "huangnan",
+        "url": "http://huangnan.fang.com"
+    },
+    "海西": {
+        "spell": "haixi",
+        "url": "http://haixi.fang.com"
+    },
+    "海东": {
+        "spell": "haidong",
+        "url": "http://haidong.fang.com"
+    },
+    "海北": {
+        "spell": "haibei",
+        "url": "http://haibei.fang.com"
+    },
+    "玉树": {
+        "spell": "yushu",
+        "url": "http://yushu.fang.com"
+    },
+    "巴州": {
+        "spell": "bazhou",
+        "url": "http://bazhou.fang.com"
+    },
+    "伊犁": {
+        "spell": "yili",
+        "url": "http://yili.fang.com"
+    },
+    "阿拉尔": {
+        "spell": "alaer",
+        "url": "http://alaer.fang.com"
+    },
+    "博尔塔拉": {
+        "spell": "betl",
+        "url": "http://betl.fang.com"
+    },
+    "昌吉": {
+        "spell": "changji",
+        "url": "http://changji.fang.com"
+    },
+    "哈密": {
+        "spell": "hami",
+        "url": "http://hami.fang.com"
+    },
+    "和田": {
+        "spell": "hetian",
+        "url": "http://hetian.fang.com"
+    },
+    "克孜勒苏": {
+        "spell": "kzls",
+        "url": "http://kzls.fang.com"
+    },
+    "石河子": {
+        "spell": "shihezi",
+        "url": "http://shihezi.fang.com"
+    },
+    "吐鲁番": {
+        "spell": "tulufan",
+        "url": "http://tulufan.fang.com"
+    },
+    "图木舒克": {
+        "spell": "tmsk",
+        "url": "http://tmsk.fang.com"
+    },
+    "五家渠": {
+        "spell": "wujiaqu",
+        "url": "http://wujiaqu.fang.com"
+    },
+    "海安": {
+        "spell": "haian",
+        "url": "http://haian.fang.com"
+    },
+    "瑞金": {
+        "spell": "ruijin",
+        "url": "http://ruijin.fang.com"
+    },
+    "奉化": {
+        "spell": "fenghua",
+        "url": "http://fenghua.fang.com"
+    },
+    "台山": {
+        "spell": "taishan",
+        "url": "http://taishan.fang.com"
+    },
+    "恩平": {
+        "spell": "enping",
+        "url": "http://enping.fang.com"
+    },
+    "如东": {
+        "spell": "rudong",
+        "url": "http://rudong.fang.com"
+    },
+    "仪征": {
+        "spell": "yizheng",
+        "url": "http://yizheng.fang.com"
+    },
+    "金坛": {
+        "spell": "jintan",
+        "url": "http://jintan.fang.com"
+    },
+    "即墨": {
+        "spell": "jimo",
+        "url": "http://jimo.fang.com"
+    },
+    "莱西": {
+        "spell": "laixi",
+        "url": "http://laixi.fang.com"
+    },
+    "昌邑": {
+        "spell": "changyi",
+        "url": "http://changyi.fang.com"
+    },
+    "广饶": {
+        "spell": "guangrao",
+        "url": "http://guangrao.fang.com"
+    },
+    "蓬莱": {
+        "spell": "penglai",
+        "url": "http://penglai.fang.com"
+    },
+    "临安": {
+        "spell": "linan",
+        "url": "http://linan.fang.com"
+    },
+    "建德": {
+        "spell": "jiande",
+        "url": "http://jiande.fang.com"
+    },
+    "桐庐": {
+        "spell": "zjtl",
+        "url": "http://zjtl.fang.com"
+    },
+    "象山": {
+        "spell": "zjxs",
+        "url": "http://zjxs.fang.com"
+    },
+    "玉环": {
+        "spell": "yuhuan",
+        "url": "http://yuhuan.fang.com"
+    },
+    "新郑": {
+        "spell": "xinzheng",
+        "url": "http://xinzheng.fang.com"
+    },
+    "荥阳": {
+        "spell": "xingyang",
+        "url": "http://xingyang.fang.com"
+    },
+    "伊川": {
+        "spell": "yichuan",
+        "url": "http://yichuan.fang.com"
+    },
+    "偃师": {
+        "spell": "yanshi",
+        "url": "http://yanshi.fang.com"
+    },
+    "瓦房店": {
+        "spell": "wafangdian",
+        "url": "http://wafangdian.fang.com"
+    },
+    "东港": {
+        "spell": "donggang",
+        "url": "http://donggang.fang.com"
+    },
+    "凤城": {
+        "spell": "fengcheng",
+        "url": "http://fengcheng.fang.com"
+    },
+    "农安": {
+        "spell": "nongan",
+        "url": "http://nongan.fang.com"
+    },
+    "凯里": {
+        "spell": "kaili",
+        "url": "http://kaili.fang.com"
+    },
+    "肥西": {
+        "spell": "feixi",
+        "url": "http://feixi.fang.com"
+    },
+    "安达": {
+        "spell": "anda",
+        "url": "http://anda.fang.com"
+    },
+    "安宁": {
+        "spell": "anning",
+        "url": "http://anning.fang.com"
+    },
+    "安丘": {
+        "spell": "anqiu",
+        "url": "http://anqiu.fang.com"
+    },
+    "宾县": {
+        "spell": "binxian",
+        "url": "http://binxian.fang.com"
+    },
+    "淳安": {
+        "spell": "chunan",
+        "url": "http://chunan.fang.com"
+    },
+    "当涂": {
+        "spell": "dangtu",
+        "url": "http://dangtu.fang.com"
+    },
+    "当阳": {
+        "spell": "dangyang",
+        "url": "http://dangyang.fang.com"
+    },
+    "登封": {
+        "spell": "dengfeng",
+        "url": "http://dengfeng.fang.com"
+    },
+    "肥东": {
+        "spell": "feidong",
+        "url": "http://feidong.fang.com"
+    },
+    "安溪": {
+        "spell": "fjax",
+        "url": "http://fjax.fang.com"
+    },
+    "进贤": {
+        "spell": "jinxian",
+        "url": "http://jinxian.fang.com"
+    },
+    "丰县": {
+        "spell": "jsfx",
+        "url": "http://jsfx.fang.com"
+    },
+    "睢宁": {
+        "spell": "jssn",
+        "url": "http://jssn.fang.com"
+    },
+    "连江": {
+        "spell": "lianjiang",
+        "url": "http://lianjiang.fang.com"
+    },
+    "临朐": {
+        "spell": "linqu",
+        "url": "http://linqu.fang.com"
+    },
+    "庐江": {
+        "spell": "lujiang",
+        "url": "http://lujiang.fang.com"
+    },
+    "沛县": {
+        "spell": "peixian",
+        "url": "http://peixian.fang.com"
+    },
+    "彭州": {
+        "spell": "pengzhou",
+        "url": "http://pengzhou.fang.com"
+    },
+    "青州": {
+        "spell": "qingzhou",
+        "url": "http://qingzhou.fang.com"
+    },
+    "新建": {
+        "spell": "xinjian",
+        "url": "http://xinjian.fang.com"
+    },
+    "宜都": {
+        "spell": "yidu",
+        "url": "http://yidu.fang.com"
+    },
+    "永登": {
+        "spell": "yongdeng",
+        "url": "http://yongdeng.fang.com"
+    },
+    "榆中": {
+        "spell": "yuzhong",
+        "url": "http://yuzhong.fang.com"
+    },
+    "肇东": {
+        "spell": "zhaodong",
+        "url": "http://zhaodong.fang.com"
+    },
+    "中牟": {
+        "spell": "zhongmou",
+        "url": "http://zhongmou.fang.com"
+    },
+    "句容": {
+        "spell": "jr",
+        "url": "http://jr.fang.com"
+    },
+    "长丰": {
+        "spell": "ahcf",
+        "url": "http://ahcf.fang.com"
+    },
+    "永春": {
+        "spell": "yongchun",
+        "url": "http://yongchun.fang.com"
+    },
+    "惠东": {
+        "spell": "huidong",
+        "url": "http://huidong.fang.com"
+    },
+    "定州": {
+        "spell": "dingzhou",
+        "url": "http://dingzhou.fang.com"
+    },
+    "辛集": {
+        "spell": "xinji",
+        "url": "http://xinji.fang.com"
+    },
+    "滦县": {
+        "spell": "luanxian",
+        "url": "http://luanxian.fang.com"
+    },
+    "玉田": {
+        "spell": "yutian",
+        "url": "http://yutian.fang.com"
+    },
+    "新安": {
+        "spell": "hnxa",
+        "url": "http://hnxa.fang.com"
+    },
+    "宜阳": {
+        "spell": "hnyy",
+        "url": "http://hnyy.fang.com"
+    },
+    "新密": {
+        "spell": "xinmi",
+        "url": "http://xinmi.fang.com"
+    },
+    "浏阳": {
+        "spell": "liuyang",
+        "url": "http://liuyang.fang.com"
+    },
+    "宁乡": {
+        "spell": "ningxiang",
+        "url": "http://ningxiang.fang.com"
+    },
+    "德惠": {
+        "spell": "dehui",
+        "url": "http://dehui.fang.com"
+    },
+    "榆树": {
+        "spell": "jlys",
+        "url": "http://jlys.fang.com"
+    },
+    "宝应": {
+        "spell": "baoying",
+        "url": "http://baoying.fang.com"
+    },
+    "庄河": {
+        "spell": "lnzh",
+        "url": "http://lnzh.fang.com"
+    },
+    "新民": {
+        "spell": "xinmin",
+        "url": "http://xinmin.fang.com"
+    },
+    "辽中": {
+        "spell": "liaozhong",
+        "url": "http://liaozhong.fang.com"
+    },
+    "济阳": {
+        "spell": "sdjy",
+        "url": "http://sdjy.fang.com"
+    },
+    "商河": {
+        "spell": "sdsh",
+        "url": "http://sdsh.fang.com"
+    },
+    "昌乐": {
+        "spell": "sdcl",
+        "url": "http://sdcl.fang.com"
+    },
+    "莱阳": {
+        "spell": "laiyang",
+        "url": "http://laiyang.fang.com"
+    },
+    "蓝田": {
+        "spell": "lantian",
+        "url": "http://lantian.fang.com"
+    },
+    "金堂": {
+        "spell": "scjt",
+        "url": "http://scjt.fang.com"
+    },
+    "邛崃": {
+        "spell": "qionglai",
+        "url": "http://qionglai.fang.com"
+    },
+    "阳春": {
+        "spell": "yangchun",
+        "url": "http://yangchun.fang.com"
+    },
+    "开平": {
+        "spell": "kaiping",
+        "url": "http://kaiping.fang.com"
+    },
+    "嵩县": {
+        "spell": "songxian",
+        "url": "http://songxian.fang.com"
+    },
+    "晋州": {
+        "spell": "jinzhou",
+        "url": "http://hbjz.fang.com"
+    },
+    "滦南": {
+        "spell": "luannan",
+        "url": "http://luannan.fang.com"
+    },
+    "枝江": {
+        "spell": "zhijiang",
+        "url": "http://zhijiang.fang.com"
+    },
+    "巫山": {
+        "spell": "wushan",
+        "url": "http://wushan.fang.com"
+    },
+    "日喀则": {
+        "spell": "rikaze",
+        "url": "http://rikaze.fang.com"
+    },
+    "昌都": {
+        "spell": "changdu",
+        "url": "http://changdu.fang.com"
+    },
+    "那曲": {
+        "spell": "naqu",
+        "url": "http://naqu.fang.com"
+    },
+    "简阳": {
+        "spell": "jianyang",
+        "url": "http://jianyang.fang.com"
+    },
+    "平阴": {
+        "spell": "sdpy",
+        "url": "http://sdpy.fang.com"
+    },
+    "洛宁": {
+        "spell": "luoning",
+        "url": "http://luoning.fang.com"
+    },
+    "孟津": {
+        "spell": "mengjin",
+        "url": "http://mengjin.fang.com"
+    },
+    "汝阳": {
+        "spell": "ruyang",
+        "url": "http://ruyang.fang.com"
+    },
+    "高碑店": {
+        "spell": "gaobeidian",
+        "url": "http://gaobeidian.fang.com"
+    },
+    "赵县": {
+        "spell": "hbzx",
+        "url": "http://hbzx.fang.com"
+    },
+    "无极": {
+        "spell": "hbwj",
+        "url": "http://hbwj.fang.com"
+    },
+    "青龙": {
+        "spell": "hbql",
+        "url": "http://hbql.fang.com"
+    },
+    "乐亭": {
+        "spell": "hblt",
+        "url": "http://hblt.fang.com"
+    },
+    "迁西": {
+        "spell": "qianxi",
+        "url": "http://qianxi.fang.com"
+    },
+    "法库": {
+        "spell": "faku",
+        "url": "http://faku.fang.com"
+    },
+    "康平": {
+        "spell": "kangping",
+        "url": "http://kangping.fang.com"
+    },
+    "五常": {
+        "spell": "wuchang",
+        "url": "http://wuchang.fang.com"
+    },
+    "尚志": {
+        "spell": "shangzhi",
+        "url": "http://shangzhi.fang.com"
+    },
+    "巴彦": {
+        "spell": "bayan",
+        "url": "http://bayan.fang.com"
+    },
+    "依兰": {
+        "spell": "yilan",
+        "url": "http://yilan.fang.com"
+    },
+    "清徐": {
+        "spell": "qingxu",
+        "url": "http://qingxu.fang.com"
+    },
+    "龙门": {
+        "spell": "gdlm",
+        "url": "http://gdlm.fang.com"
+    },
+    "崇州": {
+        "spell": "chongzhou",
+        "url": "http://chongzhou.fang.com"
+    },
+    "大邑": {
+        "spell": "dayi",
+        "url": "http://dayi.fang.com"
+    },
+    "户县": {
+        "spell": "huxian",
+        "url": "http://huxian.fang.com"
+    },
+    "周至": {
+        "spell": "zhouzhi",
+        "url": "http://zhouzhi.fang.com"
+    },
+    "横县": {
+        "spell": "hengxian",
+        "url": "http://hengxian.fang.com"
+    },
+    "宾阳": {
+        "spell": "gxby",
+        "url": "http://gxby.fang.com"
+    },
+    "开阳": {
+        "spell": "kaiyang",
+        "url": "http://kaiyang.fang.com"
+    },
+    "修文": {
+        "spell": "xiuwen",
+        "url": "http://xiuwen.fang.com"
+    },
+    "临清": {
+        "spell": "linqing",
+        "url": "http://linqing.fang.com"
+    },
+    "文安": {
+        "spell": "wenan",
+        "url": "http://wenan.fang.com"
+    },
+    "新乐": {
+        "spell": "xinle",
+        "url": "http://xinle.fang.com"
+    },
+    "元氏": {
+        "spell": "hbys",
+        "url": "http://hbys.fang.com"
+    },
+    "肇州": {
+        "spell": "zhaozhou",
+        "url": "http://zhaozhou.fang.com"
+    },
+    "肇源": {
+        "spell": "zhaoyuan",
+        "url": "http://zhaoyuan.fang.com"
+    },
+    "醴陵": {
+        "spell": "liling",
+        "url": "http://liling.fang.com"
+    },
+    "攸县": {
+        "spell": "youxian",
+        "url": "http://youxian.fang.com"
+    },
+    "湘乡": {
+        "spell": "xiangxiang",
+        "url": "http://xiangxiang.fang.com"
+    },
+    "怀远": {
+        "spell": "huaiyuan",
+        "url": "http://huaiyuan.fang.com"
+    },
+    "五河": {
+        "spell": "wuhe",
+        "url": "http://wuhe.fang.com"
+    },
+    "固镇": {
+        "spell": "guzhen",
+        "url": "http://guzhen.fang.com"
+    },
+    "全椒": {
+        "spell": "quanjiao",
+        "url": "http://quanjiao.fang.com"
+    },
+    "宜良": {
+        "spell": "ynyl",
+        "url": "http://ynyl.fang.com"
+    },
+    "东方": {
+        "spell": "dongfang",
+        "url": "http://dongfang.fang.com"
+    },
+    "博罗": {
+        "spell": "boluo",
+        "url": "http://boluo.fang.com"
+    },
+    "鹤山": {
+        "spell": "heshan",
+        "url": "http://heshan.fang.com"
+    },
+    "栖霞": {
+        "spell": "qixia",
+        "url": "http://qixia.fang.com"
+    },
+    "海阳": {
+        "spell": "haiyang",
+        "url": "http://haiyang.fang.com"
+    },
+    "霸州": {
+        "spell": "hbbz",
+        "url": "http://hbbz.fang.com"
+    },
+    "昌黎": {
+        "spell": "changli",
+        "url": "http://changli.fang.com"
+    },
+    "平山": {
+        "spell": "hbps",
+        "url": "http://hbps.fang.com"
+    },
+    "都江堰": {
+        "spell": "dujiangyan",
+        "url": "http://dujiangyan.fang.com"
+    },
+    "新津": {
+        "spell": "xinjin",
+        "url": "http://xinjin.fang.com"
+    },
+    "清镇": {
+        "spell": "qingzhen",
+        "url": "http://qingzhen.fang.com"
+    },
+    "儋州": {
+        "spell": "danzhou",
+        "url": "http://danzhou.fang.com"
+    },
+    "万宁": {
+        "spell": "wanning",
+        "url": "http://wanning.fang.com"
+    },
+    "文昌": {
+        "spell": "wenchang",
+        "url": "http://wenchang.fang.com"
+    },
+    "琼海": {
+        "spell": "qionghai",
+        "url": "http://qionghai.fang.com"
+    },
+    "海林": {
+        "spell": "hailin",
+        "url": "http://hailin.fang.com"
+    },
+    "武安": {
+        "spell": "wuan",
+        "url": "http://wuan.fang.com"
+    },
+    "阳曲": {
+        "spell": "yangqu",
+        "url": "http://yangqu.fang.com"
+    },
+    "高陵": {
+        "spell": "gaoling",
+        "url": "http://gaoling.fang.com"
+    },
+    "镇海": {
+        "spell": "zhenhai",
+        "url": "http://zhenhai.fang.com"
+    },
+    "长清": {
+        "spell": "jncq",
+        "url": "http://jncq.fang.com"
+    },
+    "胶州": {
+        "spell": "jiaozhou",
+        "url": "http://jiaozhou.fang.com"
+    },
+    "长岛": {
+        "spell": "ytcd",
+        "url": "http://ytcd.fang.com"
+    },
+    "高淳": {
+        "spell": "njgc",
+        "url": "http://njgc.fang.com"
+    },
+    "泉山": {
+        "spell": "quanshan",
+        "url": "http://quanshan.fang.com"
+    },
+    "铜山": {
+        "spell": "tongshan",
+        "url": "http://tongshan.fang.com"
+    },
+    "阜宁": {
+        "spell": "funing",
+        "url": "http://funing.fang.com"
+    },
+    "姜堰": {
+        "spell": "jiangyan",
+        "url": "http://jiangyan.fang.com"
+    },
+    "邕宁": {
+        "spell": "yongning",
+        "url": "http://yongning.fang.com"
+    },
+    "望城": {
+        "spell": "cswc",
+        "url": "http://cswc.fang.com"
+    },
+    "汉南": {
+        "spell": "whhn",
+        "url": "http://whhn.fang.com"
+    },
+    "邓州": {
+        "spell": "dengzhou",
+        "url": "http://dengzhou.fang.com"
+    },
+    "兰考": {
+        "spell": "lankao",
+        "url": "http://lankao.fang.com"
+    },
+    "玉山": {
+        "spell": "ksys",
+        "url": "http://ksys.fang.com"
+    },
+    "任丘": {
+        "spell": "renqiu",
+        "url": "http://renqiu.fang.com"
+    },
+    "罗源": {
+        "spell": "luoyuan",
+        "url": "http://luoyuan.fang.com"
+    },
+    "闽清": {
+        "spell": "minqing",
+        "url": "http://minqing.fang.com"
+    },
+    "永泰": {
+        "spell": "yongtai",
+        "url": "http://yongtai.fang.com"
+    },
+    "泉港": {
+        "spell": "quangang",
+        "url": "http://quangang.fang.com"
+    },
+    "耒阳": {
+        "spell": "leiyang",
+        "url": "http://leiyang.fang.com"
+    },
+    "蓟州": {
+        "spell": "jizhou",
+        "url": "http://jizhou.fang.com"
+    },
+    "京山": {
+        "spell": "hbjs",
+        "url": "http://hbjs.fang.com"
+    },
+    "福安": {
+        "spell": "fuan",
+        "url": "http://fuan.fang.com"
+    },
+    "桦甸": {
+        "spell": "huadian",
+        "url": "http://huadian.fang.com"
+    },
+    "台安": {
+        "spell": "lnta",
+        "url": "http://lnta.fang.com"
+    },
+    "栾川": {
+        "spell": "luanchuan",
+        "url": "http://luanchuan.fang.com"
+    },
+    "普宁": {
+        "spell": "puning",
+        "url": "http://puning.fang.com"
+    },
+    "丰城": {
+        "spell": "jxfc",
+        "url": "http://jxfc.fang.com"
+    },
+    "海城": {
+        "spell": "haicheng",
+        "url": "http://haicheng.fang.com"
+    },
+    "公主岭": {
+        "spell": "gongzhuling",
+        "url": "http://gongzhuling.fang.com"
+    },
+    "锡林浩特": {
+        "spell": "xilinhaote",
+        "url": "http://xilinhaote.fang.com"
+    },
+    "繁昌": {
+        "spell": "fanchang",
+        "url": "http://fanchang.fang.com"
+    },
+    "金湖": {
+        "spell": "jinhu",
+        "url": "http://jinhu.fang.com"
+    },
+    "峨眉山": {
+        "spell": "emeishan",
+        "url": "http://emeishan.fang.com"
+    },
+    "怀仁": {
+        "spell": "huairen",
+        "url": "http://huairen.fang.com"
+    },
+    "钟祥": {
+        "spell": "zhongxiang",
+        "url": "http://zhongxiang.fang.com"
+    },
+    "奎屯": {
+        "spell": "kuitun",
+        "url": "http://kuitun.fang.com"
+    },
+    "库尔勒": {
+        "spell": "kuerle",
+        "url": "http://kuerle.fang.com"
+    },
+    "靖安": {
+        "spell": "jxja",
+        "url": "http://jxja.fang.com"
+    },
+    "永城": {
+        "spell": "yongcheng",
+        "url": "http://yongcheng.fang.com"
+    },
+    "新丰": {
+        "spell": "xf",
+        "url": "http://xf.fang.com"
+    },
+    "东海": {
+        "spell": "donghai",
+        "url": "http://donghai.fang.com"
+    },
+    "永安": {
+        "spell": "ya",
+        "url": "http://ya.fang.com"
+    },
+    "德化": {
+        "spell": "dh",
+        "url": "http://dh.fang.com"
+    },
+    "韶山": {
+        "spell": "ss",
+        "url": "http://ss.fang.com"
+    },
+    "常宁": {
+        "spell": "cn",
+        "url": "http://cn.fang.com"
+    },
+    "罗定": {
+        "spell": "ld",
+        "url": "http://ld.fang.com"
+    },
+    "安吉": {
+        "spell": "aj",
+        "url": "http://aj.fang.com"
+    },
+    "老河口": {
+        "spell": "lhk",
+        "url": "http://lhk.fang.com"
+    },
+    "枣阳": {
+        "spell": "hbzy",
+        "url": "http://hbzy.fang.com"
+    },
+    "宜城": {
+        "spell": "hbyc",
+        "url": "http://hbyc.fang.com"
+    },
+    "舞钢": {
+        "spell": "wg",
+        "url": "http://wg.fang.com"
+    },
+    "深州": {
+        "spell": "hbsz",
+        "url": "http://hbsz.fang.com"
+    },
+    "冀州": {
+        "spell": "jz",
+        "url": "http://jz.fang.com"
+    },
+    "三河": {
+        "spell": "hbsh",
+        "url": "http://hbsh.fang.com"
+    },
+    "丰都": {
+        "spell": "fengdu",
+        "url": "http://fengdu.fang.com"
+    },
+    "海盐": {
+        "spell": "haiyan",
+        "url": "http://haiyan.fang.com"
+    },
+    "林芝": {
+        "spell": "linzhi",
+        "url": "http://linzhi.fang.com"
+    },
+    "永清": {
+        "spell": "yongqing",
+        "url": "http://yongqing.fang.com"
+    },
+    "高阳": {
+        "spell": "gaoyang",
+        "url": "http://gaoyang.fang.com"
+    },
+    "定兴": {
+        "spell": "dingxing",
+        "url": "http://dingxing.fang.com"
+    },
+    "涞水": {
+        "spell": "laishui",
+        "url": "http://laishui.fang.com"
+    },
+    "蔚县": {
+        "spell": "yuxian",
+        "url": "http://yuxian.fang.com"
+    }
+}
