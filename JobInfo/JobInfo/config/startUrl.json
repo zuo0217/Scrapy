@@ -1,7 +1,7 @@
 {
-    "start": "https://search.51job.com/list/070000%252C080000%252C020000,000000,0000,00,1,99,运维,2,1.html",
-    "default": "https://search.51job.com/list/070000%252C080000%252C020000,000000,0000,00,1,99,运维,2,{}.html",
+    "start": "https://search.51job.com/list/070000%252C080000%252C020000,000000,0000,00,1,99,电子工程师,2,1.html",
+    "default": "https://search.51job.com/list/070000%252C080000%252C020000,000000,0000,00,1,99,电子工程师,2,{}.html",
     "pageNumber": 1000,
-    "table": "运维",
+    "table": "电子工程师",
     "city_name": "江苏省+浙江省+湖南省+广州省+上海"
 }
