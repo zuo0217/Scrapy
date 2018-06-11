@@ -16,7 +16,7 @@ def city_code(text):
             listInfo.append(i)
     if len(listInfo) % 2 == 0:
         dictInfo = {}
-        for l in range(0, int(len(listInfo) / 2), 2):
+        for l in range(0, len(listInfo), 2):
             if configInfo.get(listInfo[l],False) is not False:
                 dictInfo[configInfo[listInfo[l]]] = listInfo[l]
             else:
