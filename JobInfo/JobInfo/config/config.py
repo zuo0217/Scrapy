@@ -21,7 +21,9 @@ configInfo = {
     "special name":
         {
             "030819": "高埗镇",
-            "030827": "道滘镇"
+            "030827": "道滘镇",
+            "200212": "鄠邑区",
+            "200217": "浐灞生态区"
         },
     "final url": "https://search.51job.com/list/{},000000,0000,00,9,99,{},2,{}.html",
     "data": "https://js.51jobcdn.com/in/js/2016/search/search_data_c.js",
